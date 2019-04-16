@@ -314,12 +314,15 @@ textarea {
   .main__logo {
     display: inline-block;
     vertical-align: top;
-    margin-bottom: 35px; }
+    margin-bottom: 35px;
+    width: 150px; }
+    .main__logo img {
+      width: 100%; }
     .main__logo:focus {
       outline: none; }
   .main__text p {
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px; }
 
 .gallery {
