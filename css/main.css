@@ -315,7 +315,11 @@ textarea {
     display: inline-block;
     vertical-align: top;
     margin-bottom: 35px;
-    width: 120px; }
+    width: 120px;
+    margin-top: -320px; }
+    @media (min-width: 1200px) {
+      .main__logo {
+        margin-top: 0; } }
     .main__logo img {
       width: 100%; }
     .main__logo:focus {
