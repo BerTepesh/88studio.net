@@ -296,7 +296,8 @@ textarea {
 
 .main {
   min-height: 100vh;
-  font: 18px/28px 'RalewayRegular', sans-serif; }
+  font: 18px/28px 'RalewayRegular', sans-serif;
+  overflow: hidden; }
   .main__img {
     background-repeat: no-repeat;
     background-size: cover;
