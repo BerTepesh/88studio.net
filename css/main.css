@@ -307,7 +307,7 @@ textarea {
       .main__img {
         height: 100%; } }
   .main__content {
-    padding: 60px 40px 30px; }
+    padding: 40px 40px 30px; }
     @media (min-width: 1200px) {
       .main__content {
         padding: 40px 90px 30px; } }
@@ -316,7 +316,7 @@ textarea {
     vertical-align: top;
     margin-bottom: 35px;
     width: 120px;
-    margin-top: -320px; }
+    margin-top: -250px; }
     @media (min-width: 1200px) {
       .main__logo {
         margin-top: 0; } }
