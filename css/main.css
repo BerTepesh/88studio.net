@@ -310,7 +310,7 @@ textarea {
     padding: 100px 40px 30px; }
     @media (min-width: 1200px) {
       .main__content {
-        padding: 120px 90px 30px; } }
+        padding: 40px 90px 30px; } }
   .main__logo {
     display: inline-block;
     vertical-align: top;
@@ -318,7 +318,9 @@ textarea {
     .main__logo:focus {
       outline: none; }
   .main__text p {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 22px; }
 
 .gallery {
   padding: 50px 0 30px;
